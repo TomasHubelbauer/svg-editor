@@ -28,3 +28,7 @@ changes and derive DOM changes to minimize the altered area.
 ### Add syntax highlighting to the SVG source code editor
 
 ### Sync source code back to the editor without messing up focus and syntax
+
+### Implement import and export
+
+### Remember the last project in local storage to restore on load
