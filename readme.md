@@ -1,4 +1,4 @@
-# SVG Editor
+# [SVG Editor](https://tomashubelbauer.github.io/svg-editor)
 
 A tool for tree-based SVG document construction and manipulation.
 
