@@ -1,0 +1,32 @@
+html {
+  display: flex;
+  height: 100%;
+}
+
+body {
+  display: flex;
+  flex: 1;
+  font: normal 11pt sans-serif;
+  margin: 0;
+}
+
+#dashDiv {
+  width: 400px;
+}
+
+#dashDiv h2 {
+  background: silver;
+  font: bold 12pt sans-serif;
+  margin: 0;
+  padding: 1ex;
+}
+
+#sourceTextArea {
+  height: 300px;
+  width: 100%;
+}
+
+#canvasDiv {
+  background: silver;
+  flex: 1;
+}

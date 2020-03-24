@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>SVG Editor</title>
+    <link rel="stylesheet" href="index.css" />
+    <script src="index.js"></script>
+  </head>
+  <body>
+    <div id="dashDiv">
+      <h2>Meta</h2>
+      <div>
+        <label>Width</label>
+        <input type="number" />
+      </div>
+      <div>
+        <label>Height</label>
+        <input type="number" />
+      </div>
+      <h2>Tree</h2>
+      <button id="addRectButton">Rect</button>
+      <div id="treeDiv"></div>
+      <h2>Source</h2>
+      <textarea id="sourceTextArea"></textarea>
+    </div>
+    <div id="canvasDiv">
+      <svg id="canvasSvg"></svg>
+    </div>
+  </body>
+</html>
