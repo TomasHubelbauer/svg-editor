@@ -49,7 +49,7 @@ window.addEventListener('load', () => {
     treeDiv.innerHTML = '';
     treeDiv.append(fragment);
 
-    sourceTextArea.value = canvasSvg.innerHTML;
+    //sourceTextArea.value = canvasSvg.innerHTML;
   });
 
   mutationObserver.observe(canvasSvg, {

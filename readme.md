@@ -26,3 +26,5 @@ changes and derive DOM changes to minimize the altered area.
 ### Hook up the meta section for SVG meta controls (width, height, viewport)
 
 ### Add syntax highlighting to the SVG source code editor
+
+### Sync source code back to the editor without messing up focus and syntax
